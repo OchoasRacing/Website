@@ -1,0 +1,22 @@
+#staff_login { 
+                position: absolute; 
+                top: 0; 
+                left: 0; 
+                background-color: black; 
+                width: 3%;
+            }
+            
+            #staff_login a {
+                text-align: center;
+                color: white;
+                font-family: sans-serif;
+                text-decoration: none;
+                cursor: pointer;
+                
+            }
+
+#banner {
+    width: 100%;
+    height: 200px;
+    border: 0px;
+}
