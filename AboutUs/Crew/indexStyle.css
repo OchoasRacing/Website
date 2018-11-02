@@ -21,8 +21,8 @@
     border: 0px;
 }
 
-#linkbanner, a {
+#linkbanner a {
   text-decoration: none;
   background_color: red;
-  text-color: red;
+  color: red;
 }
