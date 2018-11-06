@@ -26,3 +26,7 @@
   background_color: red;
   color: red;
 }
+
+#linkbanner a {
+  text-align: center;
+}
