@@ -21,7 +21,7 @@
     border: 0px;
 }
 
-#linkbanner linkbannerHome, linkbannerAbout, linkbannerTimeSheet, linkbannerWhereWR, linkbannerWhenWR, linkbannerContact, linkbannerSocialMedia {
+#linkbanner a {
   color: red;
   text_decoration: none;
   text_align: center;
