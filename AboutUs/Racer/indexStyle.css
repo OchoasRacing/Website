@@ -21,6 +21,8 @@
     border: 0px;
 }
 
-#linkbanner {
+#linkbanner a {
   color: red;
+  text_decoration: none;
+  text_align: center;
 }
